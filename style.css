@@ -1,0 +1,24 @@
+*{
+    font-family: "Avenir Next", "Avenir", sans-serif;
+}
+body{
+    background-image: linear-gradient(to right, steelblue, rgb(17, 55, 87));
+    padding-top: 10px;
+}
+main{
+    width: 80%;
+    border-radius: 10px;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+    padding-left: 50px;
+}
+h1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+#foto{
+    float: right;
+    scale: .5;
+    transform: translate(0px, -650px);
+}
